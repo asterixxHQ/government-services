@@ -23,5 +23,5 @@ This project is a menu - based Government Service Management simulation allowing
 6. Compile - time Polymorphism (Funtion Overloading): Under `Document` class through `setDocDet()` function - it is overloaded with different parameters to handle updates based on user input without duplicating the function.
 
 ## Stack:
-Language: C++ (GCC/MinGW or Clang)
-Interface: Command-Line Interface (CLI)
+- Language: C++ (GCC/MinGW or Clang)
+- Interface: Command-Line Interface (CLI)
