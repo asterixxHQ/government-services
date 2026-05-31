@@ -3,8 +3,8 @@ A project based on few government services using OOP concepts of C++
 #🏛️ Government Services Management
 This project is a menu - based Government Service Management simulation allowing users to access services like document renewal, utility payment and government regulations. It uses Object-Oriented Programming (OOP) concepts that manages (limited) user profiles and processes the database records.
 
-**⚠️ Limitation Note:**
-This code currently uses a fixed structured object array to store the data, hence:
+> **⚠️ Limitation Note:**
+> This code currently uses a fixed structured object array to store the data, hence:
 > *Capacity limit*: The system is limited to a maximum of 30 records per service.
 > *Data Lifespan*: As there is no persistent database or a connected file storage, all the records saved get erased when the program is exited.
 
