@@ -1,5 +1,3 @@
-A project based on few government services using OOP concepts of C++ 
-
 # 🏦 Government Services Management
 This project is a menu - based Government Service Management simulation allowing users to access services like document renewal, utility payment and government regulations. It uses Object-Oriented Programming (OOP) concepts that manages (limited) user profiles and processes the database records.
 
